@@ -1,7 +1,7 @@
 # LewisOmniscientDebugger
 Thank you for downloading the Omniscient Debugger (the ODB), the Java debugger that lets you go
 "backwards in time" so you can examine your program's execution.
-Also please visit the project [website](http://omniscientdebugger.github.io/)
+Also please visit the project [website](https://tripleo-omni-debug.github.io/)
 
 # System Requirements
 ODB 1.4 works on code complied for JDK 1.3 and 1.4. ODB 1.5 works on code compiled for JDK 1.5. 
