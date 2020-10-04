@@ -53,12 +53,12 @@ one, please email me.
 
 # Manual
 
-See manual [here](http://omniscientdebugger.github.io/ODBUserManual.html) Enjoy!
+See manual [here](https://tripleo-omni-debug.github.io/ODBUserManual.html) Enjoy!
 
 # Development
 Here is how to build and run the debug the debugger step
 ```
-git clone https://github.com/OmniscientDebugger/LewisOmniscientDebugger.git
+git clone https://github.com/tripleo1/LewisOmniscientDebugger.git
 
 gradle jar
 
