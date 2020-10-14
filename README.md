@@ -1,4 +1,7 @@
 # LewisOmniscientDebugger
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a925ed1e6d4747799453e801dbafcc01)](https://app.codacy.com/gh/tripleo-omni-debug/LewisOmniscientDebugger?utm_source=github.com&utm_medium=referral&utm_content=tripleo-omni-debug/LewisOmniscientDebugger&utm_campaign=Badge_Grade)
+
 Thank you for downloading the Omniscient Debugger (the ODB), the Java debugger that lets you go
 "backwards in time" so you can examine your program's execution.
 Also please visit the project [website](https://tripleo-omni-debug.github.io/)
